@@ -33,24 +33,23 @@
 
 - ✅ 0.5 Multiple language support -- Nicole
   
-- ❔ 0.5 Support on all devices -- Nate
 
 ✅ 7/7
 🔧 0
-❔ 0.5
+❔  0
 
 
-TO DO:
+FINAL CHECKS:
 - ~~Live chat implementation on frontend -- Beth~~
 - ~~Username in top left of nav bar when logged in -- Nate~~
 - ~~Remove profile page & adjust associated processes -- Nate~~
 - ~~Implement & test active status - Jack~~
 - ~~Complete edit profile page & functionality -- Nicole & Jack~~
-- - Test frontend functionality for all tournament processes and pages -- Coby
+- ~~Test frontend functionality for all tournament processes and pages -- Coby~~
 - ~~Upload & change avatars -- Nate~~
 - ~~Language implementation (Mandarin Chinese & Spanish) -- Nicole~~
 - ~~Profile pages (wins/losses stats & match history on 1v1 games/dates -- Beth~~
-- Delete users & pw changes, implement user checks (only ascii numbers & letters allowed, no white spaces, username does not currently exist on db, char limit?) -- Jack
+- ~~Delete users & pw changes, implement user checks (only ascii numbers & letters allowed, no white spaces, username does not currently exist on db, char limit?) -- Jack~~
 - ~~Language translations for all pages except for profile/user page -- Nicole~~
-- Functionality testing across the project -- Nate
-- Security pen testing (SQL injections/XSS attacks, cookie stuff) -- Beth
+- ~~Functionality testing across the project -- Nate~~
+- ~~Security pen testing (SQL injections/XSS attacks, cookie stuff) -- Beth~~
